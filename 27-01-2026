@@ -1,0 +1,25 @@
+Ata da reunião online do dia 27/01/2026
+
+-Resultados com os testes da placa (diodo de proteção, possíveis correções, etc)
+  Leds funcionando, Wifi funcionando, IMU ainda não funcionando (continuidade testada).
+
+-Impressão do drone (escolha da impressora, bicos, testes, etc)
+  Impresso na impressora do Naval, comprar TPU e repassar os bicos.
+
+-Esquema do PID (Documentar e explicar para o Colem o que foi discutido na última reunião)
+  Documentar o esquema na quinta-feira (29/01/2026) 17hrs
+
+-Compras (TPU, Câmera, etc)
+  Ponteira do ferro 60W, Comprar componentes para placa extra
+
+-Tarefas
+  Sabio:
+    Teste do IMU, debug Wifi
+  Gabriel:
+    Iniciar código PID
+  Colem:
+    Ajudar o Gabriel, Assistir os vídeos PID, estudar biblioteca QuickPID e outras
+  Samuel:
+    Testar a placa e ajudar geral
+  Naval:
+    Esperar chegar o TPU
