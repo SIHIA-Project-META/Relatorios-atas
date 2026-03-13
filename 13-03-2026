@@ -1,15 +1,18 @@
 Ata da reunião do dia 13/03/2026
 Tópicos:
-Teste empuxo / hélices
+-Teste empuxo / hélices
+Hélices lixadas e fixadas por interferência, funcionaram muito bem.
 
+-Estas atividades foram inibidas por queima da placa e do ESP:
+*Teste empuxo placas
+*Início teste PID
 
-Teste empuxo placas
+-Teste da biblioteca ESPWIFI
+Será testado ao longo da semana com o Arthur.
 
+-Programar ESP via Wifi/OTA
+Funciona, porém não 100% ainda
 
-Início teste PID
-
-
-Teste da biblioteca ESPWIFI
-
-
-Programar ESP via Wifi/OTA
+- Nova placa:
+Devido ao fato de nossas placas estarem infuncionais, compraremos novas placas, porém, como o preço se mantém o mesmo, faremos uma nova versão da placa, removendo recursos desnecessários e reduzindo o tamanho da placa, estará pronta até segunda feira (16/03)
+Compra do ESP, MOSFETs e componentes
